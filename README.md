@@ -13,6 +13,8 @@ I like :
 * Fruit
   * Strawberry
   * Apple
+* coke
+
 ## contect :  [facebook](https://www.facebook.com/joy.ratchadaporn.25)
 
 
