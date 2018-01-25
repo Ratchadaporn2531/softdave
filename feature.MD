@@ -1,1 +1,7 @@
-feature in my Project iSOS
+feature in my Project 
+-buddy
+-Activity
+-Data
+-Help
+-Volunteer
+-Alert
